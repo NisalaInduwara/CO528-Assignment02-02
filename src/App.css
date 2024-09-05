@@ -1,0 +1,27 @@
+body {
+  font-family: Arial, sans-serif;
+  padding: 20px;
+}
+
+.container {
+  max-width: 300px;
+  margin: auto;
+  text-align: center;
+}
+
+input[type="text"] {
+  width: 60px;
+  text-align: center;
+}
+
+.slider {
+  width: 100%;
+}
+
+.radio-buttons {
+  margin-top: 20px;
+}
+
+.radio-buttons label {
+  margin-right: 10px;
+}
